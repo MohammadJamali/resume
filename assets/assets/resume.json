@@ -1,0 +1,515 @@
+[
+  {
+    "language": "en",
+    "supportDeveloper": true,
+    "aboutMe": {
+      "profilePic": "assets/images/profile.png",
+      "fullname": "Full Name",
+      "slogan": "Profession And Job T itle",
+      "biography": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.",
+      "skills": [
+        { "tag": "Skill 1" },
+        {
+          "tag": "Skill 2"
+        },
+        {
+          "tag": "C#",
+          "detail": {
+            "title": "C#",
+            "tags": [
+              {
+                "title": "Company",
+                "value": "Microsoft",
+                "iconCode": 62410,
+                "iconClass": "IconDataBrands"
+              },
+              {
+                "title": "Environment",
+                "value": "Cross-platform",
+                "iconCode": 61573,
+                "iconClass": "IconDataSolid"
+              },
+              {
+                "title": "Code Editor",
+                "value": "Rider",
+                "iconCode": 61728,
+                "iconClass": "IconDataSolid"
+              }
+            ],
+            "document": [
+              {
+                "insert": "I started programming using c++, after a while switched to C# because it had more use cases in web development and also has a lot of already implemented packages for probably everything ones might need.\n\nAfter doing many hobbies and freelancing projects using C# I start exploring different technologies like QT5 and Unity3D that are using C++/C# as their main language.\n\nOne of the projects I developed using QT5 was a chess game, it was my final project in “advanced programming language” the second semester of my bachelor's degree at Bu-Ali Sina university. "
+              },
+              {
+                "attributes": {
+                  "link": "https://github.com/MohammadJamali/QT-Chess-Game"
+                },
+                "insert": "Here"
+              },
+              {
+                "insert": " you can see the code and the video clip of this project.\n\nYou can check out some of my hobby projects on my GitHub too, here is a list of them:\n\n"
+              },
+              {
+                "attributes": {
+                  "link": "https://github.com/MohammadJamali/Flappy-Bird"
+                },
+                "insert": "flappy bird"
+              },
+              {
+                "attributes": {
+                  "list": "bullet"
+                },
+                "insert": "\n"
+              },
+              {
+                "attributes": {
+                  "link": "https://github.com/MohammadJamali/QT-Chess-Game"
+                },
+                "insert": "chess game"
+              },
+              {
+                "attributes": {
+                  "list": "bullet"
+                },
+                "insert": "\n"
+              },
+              {
+                "attributes": {
+                  "link": "https://github.com/MohammadJamali/MazeMapping"
+                },
+                "insert": "maze mapping"
+              },
+              {
+                "attributes": {
+                  "list": "bullet"
+                },
+                "insert": "\n"
+              },
+              {
+                "attributes": {
+                  "link": "https://github.com/MohammadJamali/Fun-3D-Gamestudio-Project"
+                },
+                "insert": "scary tunnel"
+              },
+              {
+                "attributes": {
+                  "list": "bullet"
+                },
+                "insert": "\n"
+              },
+              {
+                "attributes": {
+                  "link": "https://github.com/MohammadJamali/undergraduate-os-homework-shell/blob/master/Shell.cpp"
+                },
+                "insert": "simple shell"
+              },
+              {
+                "attributes": {
+                  "link": "https://github.com/MohammadJamali/CpuProject/blob/master/CPU%20Project/Source.cpp"
+                },
+                "insert": "operation on one cpu core"
+              },
+              {
+                "attributes": {
+                  "list": "bullet"
+                },
+                "insert": "\n"
+              },
+              {
+                "insert": "\nLast but not least, I want to introduce NG-API, A general-purpose server-side application that will simply do all CRUD + Relation & Search things for models, and makes the server-side application development process super rapid and convenient. This repository is not under maintenance because I don't have time for it but you can see the code "
+              },
+              {
+                "attributes": {
+                  "link": "https://github.com/MohammadJamali/NeutronGeneralAPI"
+                },
+                "insert": "here."
+              },
+              {
+                "insert": "\n\n\n"
+              }
+            ]
+          }
+        },
+        { "tag": "Skill 3" },
+        { "tag": "Skill 4" },
+        { "tag": "Skill 5" },
+        { "tag": "Skill 6" },
+        { "tag": "Skill 7" }
+      ],
+      "hobbies": [
+        {
+          "title": "Linux",
+          "iconCode": 61820,
+          "iconClass": "IconDataBrands"
+        },
+        {
+          "title": "Piano",
+          "iconCode": 58558,
+          "iconClass": "MaterialIcon"
+        },
+        {
+          "title": "Motorcycle",
+          "iconCode": 61980,
+          "iconClass": "IconDataSolid"
+        },
+        {
+          "title": "Game",
+          "iconCode": 62431,
+          "iconClass": "IconDataBrands"
+        }
+      ]
+    },
+    "blog": {
+      "blogPosts": [
+        {
+          "title": "Blog post title",
+          "publishedDate": "2022-05-22T11:43:07",
+          "iconCode": 62010,
+          "iconClass": "IconDataBrands",
+          "imgUrl": "assets/images/blogs/instagram.png",
+          "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in",
+          "externalLink": "https://google.com"
+        },
+        {
+          "title": "Blog post title 2",
+          "publishedDate": "2022-05-22T11:43:07",
+          "iconCode": 62010,
+          "iconClass": "IconDataBrands",
+          "imgUrl": "assets/images/blogs/terminal.png",
+          "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in",
+          "externalLink": "https://google.com"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "iconCode": 61445,
+        "color": 4294961979,
+        "image": "assets/images/timeline/tesla.png",
+        "iconClass": "IconDataSolid",
+        "title": "Job Title And Role",
+        "subtitle": "Lorem ipsum dolor sit amet",
+        "startedAt": "2018-01-01",
+        "externalLink": "https://google.com",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+      },
+      {
+        "title": "Job Title And Role",
+        "subtitle": "Lorem ipsum dolor sit amet",
+        "startedAt": "2020-08-22",
+        "finishedAt": "2022-08-23",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+      },
+      {
+        "image": "assets/images/timeline/google.png",
+        "title": "Job Title And Role",
+        "subtitle": "Lorem ipsum dolor sit amet",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "startedAt": "2018-06-01",
+        "finishedAt": "2019-01-01",
+        "externalLink": "https://google.com"
+      },
+      {
+        "image": "assets/images/timeline/apple.png",
+        "title": "Job Title And Role",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "startedAt": "2020-08-22",
+        "finishedAt": "2022-08-23",
+        "externalLink": "https://google.com"
+      },
+      {
+        "title": "Job Title And Role",
+        "subtitle": "Lorem ipsum dolor sit amet",
+        "startedAt": "2015-01-01",
+        "finishedAt": "2020-01-01",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+      },
+      {
+        "image": "assets/images/timeline/twitter.png",
+        "title": "Job Title And Role",
+        "subtitle": "Lorem ipsum dolor sit amet",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "startedAt": "2017-09-01",
+        "finishedAt": "2019-09-01",
+        "caption": "Score Score Score",
+        "externalLink": "https://google.com"
+      },
+      {
+        "image": "assets/images/timeline/yahoomessenger.png",
+        "title": "University Name And Degree",
+        "subtitle": "Lorem ipsum dolor sit amet",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "startedAt": "2013-09-01",
+        "finishedAt": "2017-09-01",
+        "caption": "Score Score Score",
+        "externalLink": "https://google.com"
+      }
+    ],
+    "contacts": [
+      { "host": "email", "identifier": "email@gmail.com" },
+      { "host": "telegram", "identifier": "resume" },
+      { "host": "instagram", "identifier": "resume" },
+      { "host": "linkedIn", "identifier": "resume" },
+      { "host": "github", "identifier": "resume" },
+      { "host": "phone", "identifier": "+980000000000" }
+    ]
+  },
+  {
+    "language": "fa",
+    "supportDeveloper": true,
+    "aboutMe": {
+      "profilePic": "assets/images/profile.png",
+      "fullname": "نام و نام خانوادگی",
+      "slogan": "حرفه و عنوان شغلی",
+      "biography": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
+      "skills": [
+        { "tag": "حرفه ۱" },
+        {
+          "tag": "حرفه ۲"
+        },
+        {
+          "tag": "حرفه ۳",
+          "detail": {
+            "title": "حرفه شماره سوم",
+            "tags": [
+              {
+                "title": "شرکت",
+                "value": "مایکروسافت",
+                "iconCode": 62410,
+                "iconClass": "IconDataBrands"
+              },
+              {
+                "title": "محیط",
+                "value": "عموم سیستم عامل ها",
+                "iconCode": 61573,
+                "iconClass": "IconDataSolid"
+              },
+              {
+                "title": "ویرایشگر کد",
+                "value": "رایدر",
+                "iconCode": 61728,
+                "iconClass": "IconDataSolid"
+              }
+            ],
+            "document": [
+              {
+                "insert": "برنامه نویسی را با زبان سی شروع کردم و بعد از مدتی به دلیل کاربرد بیشتر و وجود کتابخانه های متعدد آماده در زمینه های مختلف به سی شارپ مهاجرت کردم. \n\nبعد از انجام تعداد زیادی پروژه سرگرمی و پروژه های فریلنسری با زبان سی شارپ شروع به کاوش در تکنولوژی هایی مانند یونیتی و QT5 کردم که از زبان های سی و سی شارپ به عنوان زبان های پایه خود استفاده می کردند. یکی از پروژه هایی که با QT5 توسعه دادم یک بازی شطرنج بود که به عنوان پروژه پایان ترم درس برنامه نویسی پیشرفته ترم دوم دوره کارشناسی دانگشاه بوعلی سینا تحویل دادم "
+              },
+              {
+                "attributes": {
+                  "link": "https://github.com/MohammadJamali/QT-Chess-Game"
+                },
+                "insert": "که می توانید اینجا"
+              },
+              {
+                "insert": " کد و ویدیو کلیپ تهیه شده از بازی را مشاهده کنید.\n\nهمچنین چند مورد از پروژه های تفننی من را در گیت هابم مشاهده کنید:\n\n"
+              },
+              {
+                "attributes": {
+                  "link": "https://github.com/MohammadJamali/Flappy-Bird"
+                },
+                "insert": "فلاپی برد"
+              },
+              {
+                "attributes": {
+                  "list": "bullet"
+                },
+                "insert": "\n"
+              },
+              {
+                "attributes": {
+                  "link": "https://github.com/MohammadJamali/QT-Chess-Game"
+                },
+                "insert": "شطرنج"
+              },
+              {
+                "attributes": {
+                  "list": "bullet"
+                },
+                "insert": "\n"
+              },
+              {
+                "attributes": {
+                  "link": "https://github.com/MohammadJamali/MazeMapping"
+                },
+                "insert": "کاشی کاری"
+              },
+              {
+                "attributes": {
+                  "list": "bullet"
+                },
+                "insert": "\n"
+              },
+              {
+                "attributes": {
+                  "link": "https://github.com/MohammadJamali/Fun-3D-Gamestudio-Project"
+                },
+                "insert": "تونل وحشت"
+              },
+              {
+                "attributes": {
+                  "list": "bullet"
+                },
+                "insert": "\n"
+              },
+              {
+                "attributes": {
+                  "link": "https://github.com/MohammadJamali/undergraduate-os-homework-shell/blob/master/Shell.cpp"
+                },
+                "insert": "شل ساده"
+              },
+              {
+                "attributes": {
+                  "link": "https://github.com/MohammadJamali/CpuProject/blob/master/CPU%20Project/Source.cpp"
+                },
+                "insert": "عملیات با یک هسته پردازشگر"
+              },
+              {
+                "attributes": {
+                  "list": "bullet"
+                },
+                "insert": "\n"
+              },
+              {
+                "insert": "\nآخرین اما نه کم‌اهمیت، می‌خواهم NG-API را معرفی کنم، یک برنامه کاربردی در سمت سرور که به سادگی تمام کارهای CRUD را برای مدل‌ها انجام می‌دهد و فرآیند توسعه سمت سرور را بسیار سریع و راحت می‌کند. این پروژه تحت توسعه نیست زیرا دیگر در بودجه بندی زمانی من جا نمی شود اما کد آن را می توانید "
+              },
+              {
+                "attributes": {
+                  "link": "https://github.com/MohammadJamali/NeutronGeneralAPI"
+                },
+                "insert": "در اینجا مشاهده کنید."
+              },
+              {
+                "insert": "\n\n\n\n"
+              }
+            ]
+          }
+        },
+        { "tag": "حرفه ۴" },
+        { "tag": "حرفه ۵" },
+        { "tag": "حرفه ۶" },
+        { "tag": "حرفه ۷" },
+        { "tag": "حرفه ۸" }
+      ],
+      "hobbies": [
+        {
+          "title": "لینوکس",
+          "iconCode": 61820,
+          "iconClass": "IconDataBrands"
+        },
+        {
+          "title": "پیانو",
+          "iconCode": 58558,
+          "iconClass": "MaterialIcon"
+        },
+        {
+          "title": "موتور",
+          "iconCode": 61980,
+          "iconClass": "IconDataSolid"
+        },
+        {
+          "title": "بازی",
+          "iconCode": 62431,
+          "iconClass": "IconDataBrands"
+        }
+      ]
+    },
+    "blog": {
+      "blogPosts": [
+        {
+          "title": "عنوان پست بلاگ",
+          "publishedDate": "2022-05-22T11:43:07",
+          "iconCode": 62010,
+          "iconClass": "IconDataBrands",
+          "imgUrl": "assets/images/blogs/instagram.png",
+          "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+          "externalLink": "https://google.com"
+        },
+        {
+          "title": "عنوان پست بلاگ دوم",
+          "publishedDate": "2022-05-22T11:43:07",
+          "iconCode": 62010,
+          "iconClass": "IconDataBrands",
+          "imgUrl": "assets/images/blogs/terminal.png",
+          "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+          "externalLink": "https://google.com"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "iconCode": 61445,
+        "color": 4294961979,
+        "image": "assets/images/timeline/tesla.png",
+        "iconClass": "IconDataSolid",
+        "title": "نقش و عنوان شغلی",
+        "subtitle": "لورم ایپسوم متن ساختگی با تولید سادگی",
+        "startedAt": "2018-01-01",
+        "externalLink": "https://google.com",
+        "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و"
+      },
+      {
+        "title": "نقش و عنوان شغلی",
+        "subtitle": "لورم ایپسوم متن ساختگی با تولید سادگی",
+        "startedAt": "2020-08-22",
+        "finishedAt": "2022-08-23",
+        "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها",
+        "externalLink": "https://google.com"
+      },
+      {
+        "image": "assets/images/timeline/google.png",
+        "title": "نقش و عنوان شغلی",
+        "subtitle":  "لورم ایپسوم متن ساختگی با تولید سادگی",
+        "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+        "startedAt": "2018-06-01",
+        "finishedAt": "2019-01-01",
+        "externalLink": "https://google.com"
+      },
+      {
+        "image": "assets/images/timeline/apple.png",
+        "title": "نقش و عنوان شغلی",
+        "subtitle": "لورم ایپسوم متن ساختگی با تولید سادگی",
+        "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون.",
+        "startedAt": "2020-08-22",
+        "finishedAt": "2022-08-23",
+        "externalLink": "https://google.com"
+      },
+      {
+        "title": "نقش و عنوان شغلی",
+        "subtitle":  "لورم ایپسوم متن ساختگی با تولید سادگی",
+        "startedAt": "2015-01-01",
+        "finishedAt": "2020-01-01",
+        "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد."
+      },
+      {
+        "image": "assets/images/timeline/twitter.png",
+        "title": "نقش و عنوان شغلی",
+        "subtitle":  "لورم ایپسوم متن ساختگی با تولید سادگی",
+        "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+        "startedAt": "2017-09-01",
+        "finishedAt": "2019-09-01",
+        "caption":  "لورم ایپسوم متن",
+        "externalLink": "https://google.com"
+      },
+      {
+        "image": "assets/images/timeline/yahoomessenger.png",
+        "title": "رشته تحصیلی",
+        "subtitle": "لورم ایپسوم متن ساختگی با تولید سادگی",
+        "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+        "startedAt": "2013-09-01",
+        "finishedAt": "2017-09-01",
+        "caption":  "لورم ایپسوم متن",
+        "externalLink": "https://google.com"
+      }
+    ],
+    "contacts": [
+      { "host": "email", "identifier": "email@gmail.com" },
+      { "host": "telegram", "identifier": "resume" },
+      { "host": "instagram", "identifier": "resume" },
+      { "host": "linkedIn", "identifier": "resume" },
+      { "host": "github", "identifier": "resume" },
+      { "host": "phone", "identifier": "+980000000000" }
+    ]
+  }
+]
